@@ -1,0 +1,9 @@
+.title{
+    color:rgb(116, 21, 21)
+}
+.img {    display: grid;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 300px;
+    margin-left: 477px;}
+  
